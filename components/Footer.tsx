@@ -54,7 +54,7 @@ export default function Footer() {
             © Glomb Solicitors P/L — Liability limited by a scheme approved under
             Professional Standards Legislation.
           </span>
-          <span>Website by Fresh Creative 2025</span>
+          <span>Managed by Empreus IT Support</span>
         </div>
       </div>
     </footer>
